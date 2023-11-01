@@ -47,4 +47,4 @@
 
 
 [twitter]: https://twitter.com/deanpmetcalfe
-[linkedin]: https://www.linkedin.com/in/dean-metcalfe-2a8059298/
+[linkedin]: https://www.linkedin.com/in/dean-metcalfe-8088a3298/
