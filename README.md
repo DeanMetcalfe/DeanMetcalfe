@@ -26,7 +26,7 @@
 
 <h2> 📋 I’m currently working on ...</h2>
 
-
+- Open Source Society University - Computer Science Degree
 - Security Blue Team Level 1 Certificate
 - Hack The Box - SOC Analyst Path
 - Let's Defend - SOC Analyst Learning Path
